@@ -126,7 +126,7 @@ This reduces:
 ## 🔗 Reference
 
 Article:  
-[medium](https://andriantriputra.medium.com/)
+[medium](https://andriantriputra.medium.com/camera-your-camera-isnt-the-problem-your-architecture-is-f5d9f6fe5d92)
 
 ---
 ## Author
@@ -135,8 +135,3 @@ Andrian Tri Putra
 - [Medium](https://andriantriputra.medium.com/)
 - [andriantp](https://github.com/andriantp)
 - [AndrianTriPutra](https://github.com/AndrianTriPutra)
-
----
-## 📌 License
-
-MIT License
