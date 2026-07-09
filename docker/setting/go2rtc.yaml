@@ -1,0 +1,2 @@
+streams:
+  cam1: rtsp://username:password@192.168.1.10:554/stream1
